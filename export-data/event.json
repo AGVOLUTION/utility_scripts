@@ -1,0 +1,19 @@
+{
+    "euis": [
+        "1122334455667788",
+        "AABBCCDDEEFFAABB"
+    ],
+    "start": "2022-11-10T00:00:00",
+    "end": "2022-12-01T00:00:00",
+    "keys": ["TOP", "-10", "-30", "-45", "+15"],
+    "params": [
+        "ENV__ATMO__T",
+        "ENV__ATMO__RH",
+        "ENV__ATMO__P",
+        "ENV__ATMO__IRRADIATION",
+        "ENV__ATMO__RADIANT_EXPOSURE",
+        "ENV__SOIL__T",
+        "ENV__SOIL__VWC"
+        ],
+    "plot": true
+}
